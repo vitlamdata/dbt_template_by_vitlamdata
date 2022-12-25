@@ -1,0 +1,14 @@
+dbt_project:
+  outputs:
+    dev:
+      project: zzz
+      keyfile: zzz
+      dataset: zzz
+      location: asia-southeast1
+      type: bigquery
+      job_execution_timeout_seconds: 300
+      job_retries: 1
+      method: service-account
+      priority: interactive
+      threads: 4
+  target: dev
