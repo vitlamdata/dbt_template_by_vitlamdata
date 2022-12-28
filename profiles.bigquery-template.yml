@@ -1,3 +1,5 @@
+# Documentation: https://docs.getdbt.com/docs/get-started/connection-profiles
+
 template_by_vitlamdata:
   outputs:
     dev:
