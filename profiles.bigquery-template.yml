@@ -1,4 +1,4 @@
-dbt_project:
+template_by_vitlamdata:
   outputs:
     dev:
       project: zzz
