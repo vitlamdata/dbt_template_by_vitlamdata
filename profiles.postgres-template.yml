@@ -3,11 +3,11 @@
 template_by_vitlamdata:
   outputs:
     dev:
-      user: zzz
-      pass: zzz
       host: zzz
       port: 5432
       dbname: zzz
+      user: zzz
+      pass: zzz
       schema: analytics
       type: postgres
       threads: 1
