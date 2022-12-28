@@ -1,0 +1,15 @@
+# Documentation: https://docs.getdbt.com/docs/get-started/connection-profiles
+
+template_by_vitlamdata:
+  outputs:
+    dev:
+      user: zzz
+      pass: zzz
+      host: zzz
+      port: 5432
+      dbname: zzz
+      schema: analytics
+      type: postgres
+      threads: 1
+      keepalives_idle: 0 # default 0, indicating the system default
+  target: dev
