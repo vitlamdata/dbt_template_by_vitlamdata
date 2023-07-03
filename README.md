@@ -13,7 +13,7 @@ Chào bạn, mình là [Vịt làm Data](https://www.youtube.com/@vitlamdata?sub
 
 - 👉 [Hướng dẫn Cài đặt DBT trên MacOS](https://www.youtube.com/playlist?list=PL01fPqVNMdrlEQQfNF4-GOQ5p_1VF4yAu)
 
-- 👉 [Hướng dẫn Dùng DBT]([https://www.youtube.com/playlist?list=PL01fPqVNMdrnTOusqMhYDW4OWQF_5--Bi](https://www.youtube.com/watch?v=7J4ZJR1mDFI&list=PL01fPqVNMdrnTOusqMhYDW4OWQF_5--Bi&index=1)
+- 👉 [Hướng dẫn Dùng DBT](https://www.youtube.com/watch?v=7J4ZJR1mDFI&list=PL01fPqVNMdrnTOusqMhYDW4OWQF_5--Bi&index=1)
 
 ---
 
